@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F9CF4704-CC52-4000-8EDA-EEEC698FEF9D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FacebookTweaksSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D9F29658-EFAB-494D-9AF7-CDC84E700A6C</key>
+		<string>ssh://github.com/hrk-ys/FacebookTweaksSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FacebookTweaksSample.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D9F29658-EFAB-494D-9AF7-CDC84E700A6C</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/hrk-ys/FacebookTweaksSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D9F29658-EFAB-494D-9AF7-CDC84E700A6C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D9F29658-EFAB-494D-9AF7-CDC84E700A6C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FacebookTweaksSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
